@@ -40,7 +40,7 @@ Face Shape Classifier | 99.8 % | 83.5 %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
 We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces using the [web scraping process](code_scrapping.ipynb). 
-The dataset, consisting of 160 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [cleaned_data_final.csv](cleaned_data_final.csv)
+The dataset, consisting of 160 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [file_cleaned.csv](file_cleaned.csv)
 ### Metadata
 
 - *MarketplaceLink:* Link to the eyeglasses frame product on the online marketplace.
