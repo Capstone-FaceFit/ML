@@ -3,12 +3,14 @@
 - Machine Learning Repository
 
 FaceFit Machine Learning Repository for Bangkit Capstone Project. Building face shape classifier Model.
-##  The Trainee of Machine Learning Bangkit Academy Capstone Team CH2-PS497
-|            Trainee          |  Student ID  |   Learning Path  |        University         |
-| :-------------------------: | :------  --: | :--------------: | :-----------------------: | 
-| Nicolas Ray Amarco Tambunan | M312B4KY3363 | Machine Learning | Universitas Sebelas Maret |
-| Vitto Rendi Setiawan        | M312B4KY4442 | Machine Learning | Universitas Sebelas Maret |
-| Zhafira Oktaviani           | M312B4KX4614 | Machine Learning | Universitas Sebelas Maret |
+## The Trainee of Machine Learning Bangkit Academy Capstone Team CH2-PS497
+
+| Trainee                      | Student ID    | Learning Path     | University                |
+|------------------------------|---------------|-------------------|---------------------------|
+| Nicolas Ray Amarco Tambunan  | M312B4KY3363  | Machine Learning  | Universitas Sebelas Maret |
+| Vitto Rendi Setiawan         | M312B4KY4442  | Machine Learning  | Universitas Sebelas Maret |
+| Zhafira Oktaviani            | M312B4KX4614  | Machine Learning  | Universitas Sebelas Maret |
+
 
 ## Tech Stack
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
