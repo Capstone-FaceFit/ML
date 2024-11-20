@@ -71,7 +71,7 @@ Each entry in the dataset includes these attributes, providing comprehensive inf
 The primary purpose of the eyeglasses recommendation module is to enhance the user experience by offering curated suggestions that complement different face shapes.
 
 ### Algorithm Recommendation
-- The [recommendation algorithm]( .ipynb) 
+- The [Recommendation Algorithm](Code_Recommendation.ipynb) 
 diisi
 - Users can explore recommended frames, view additional details, and provide feedback to further enhance subsequent recommendations.
 
