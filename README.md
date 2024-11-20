@@ -39,7 +39,7 @@ Models | Accuracy | Val Accuracy
 Face Shape Classifier | 99.8 % | 83.5 %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
-We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces using the [web scraping process](code_scrapping.ipynb). 
+We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces.
 The dataset, consisting of 160 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [CleanedDataFix.csv](CleanedDataFix.csv)
 ### Metadata
 
