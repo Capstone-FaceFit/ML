@@ -26,7 +26,7 @@ FaceFit Machine Learning Repository for Bangkit Capstone Project. Building face 
 We have model, eyeglassess frame datasets, and recomendation algorithm in this repository
 ### Face Shape Classifier
 - [Face Shape Classifier](di isi github face_shape_classifier_fix.ipynb) 
-(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](diisi link drive nya ya) that contains 3,981 face images.
+(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](https://drive.google.com/drive/folders/1pF46doNcNDE8KyE9LYjx659tZ8jvtIex?usp=sharing) that contains 3,981 face images.
 
 #### Model Training Performance
 ![trainingaccuracy](di isi train accuracy assets/train_accuracy.png)
