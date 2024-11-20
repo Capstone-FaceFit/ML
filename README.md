@@ -36,7 +36,7 @@ We have model, eyeglassess frame datasets, and recomendation algorithm in this r
 #### Performance Summary
 Models | Accuracy | Val Accuracy
 ------------ | ------------- | -------------
-Face Shape Classifier | 99.8 % | 83.5 %
+Face Shape Classifier |  % |  %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
 We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces.
