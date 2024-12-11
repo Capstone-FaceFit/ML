@@ -26,7 +26,7 @@ FaceFit Machine Learning Repository for Bangkit Capstone Project. Building face 
 We have model, eyeglassess frame datasets, and recomendation algorithm in this repository
 ### Face Shape Classifier
 - [Face Shape Classifier](https://github.com/Capstone-FaceFit/ML/blob/main/faceshape-preprocess-fix.ipynb)
-(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](https://drive.google.com/drive/folders/1pF46doNcNDE8KyE9LYjx659tZ8jvtIex?usp=sharing) that contains 3,981 face images.
+(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset]) that contains 3,981 face images.
 
 #### Model Training Performance
 ![loss](https://github.com/user-attachments/assets/87bffe9e-1e2c-4324-9595-d57dc4f68b3f)
@@ -41,7 +41,7 @@ Face Shape Classifier | 98.7 % | 85 %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
 We have collected a dataset of 135 diverse eyeglasses frames from various online marketplaces.
-The dataset, consisting of 135 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [https://github.com/Capstone-FaceFit/ML/blob/main/FixCleanedData.csv]
+The dataset, consisting of 135 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [Cleaned Data](https://github.com/Capstone-FaceFit/ML/blob/main/FixCleanedData.csv)
 ### Metadata
 
 - *MarketplaceLink:* Link to the eyeglasses frame product on the online marketplace.
@@ -72,7 +72,7 @@ Each entry in the dataset includes these attributes, providing comprehensive inf
 The primary purpose of the eyeglasses recommendation module is to enhance the user experience by offering curated suggestions that complement different face shapes.
 
 ### Algorithm Recommendation
-- The [https://github.com/Capstone-FaceFit/ML/blob/main/Recommendation.ipynb]
+- The [Recommendation](https://github.com/Capstone-FaceFit/ML/blob/main/Recommendation.ipynb)
 - Users can explore recommended frames, view additional details, and provide feedback to further enhance subsequent recommendations.
 
 ## Run the ipynb in Google Colab
