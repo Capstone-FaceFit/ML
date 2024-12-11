@@ -40,8 +40,8 @@ Models | Accuracy | Val Accuracy
 Face Shape Classifier | 98.7 % | 85 %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
-We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces.
-The dataset, consisting of 160 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [CleanedDataFix.csv](CleanedDataFix.csv)
+We have collected a dataset of 135 diverse eyeglasses frames from various online marketplaces.
+The dataset, consisting of 135 entries, is intended to facilitate the development of an eyeglasses frame recommendation system based on classified face shapes. The eyeglasses frame dataset is stored in [https://github.com/Capstone-FaceFit/ML/blob/main/FixCleanedData.csv]
 ### Metadata
 
 - *MarketplaceLink:* Link to the eyeglasses frame product on the online marketplace.
@@ -72,7 +72,7 @@ Each entry in the dataset includes these attributes, providing comprehensive inf
 The primary purpose of the eyeglasses recommendation module is to enhance the user experience by offering curated suggestions that complement different face shapes.
 
 ### Algorithm Recommendation
-- The [Recommendation Algorithm](Code_Recommendation.ipynb).
+- The [https://github.com/Capstone-FaceFit/ML/blob/main/Recommendation.ipynb]
 - Users can explore recommended frames, view additional details, and provide feedback to further enhance subsequent recommendations.
 
 ## Run the ipynb in Google Colab
