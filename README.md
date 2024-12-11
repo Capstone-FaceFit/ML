@@ -25,18 +25,19 @@ FaceFit Machine Learning Repository for Bangkit Capstone Project. Building face 
 ## About 
 We have model, eyeglassess frame datasets, and recomendation algorithm in this repository
 ### Face Shape Classifier
-- [Face Shape Classifier](di isi github face_shape_classifier_fix.ipynb) 
+- [Face Shape Classifier](https://github.com/Capstone-FaceFit/ML/blob/main/faceshape-preprocess-fix.ipynb)
 (image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](https://drive.google.com/drive/folders/1pF46doNcNDE8KyE9LYjx659tZ8jvtIex?usp=sharing) that contains 3,981 face images.
 
 #### Model Training Performance
-![trainingaccuracy](di isi train accuracy assets/train_accuracy.png)
+![loss](https://github.com/user-attachments/assets/87bffe9e-1e2c-4324-9595-d57dc4f68b3f)
+![accuracy](https://github.com/user-attachments/assets/d26709ab-5122-4026-9055-0eae16da9d66)
 #### Performance after Fine Tuning
-![finetuning](di isi train result assets/train_result.png)
+![tuning](https://github.com/user-attachments/assets/14b265f7-adac-4928-b719-7c2a5e80dd8f)
 
 #### Performance Summary
 Models | Accuracy | Val Accuracy
 ------------ | ------------- | -------------
-Face Shape Classifier |  % |  %
+Face Shape Classifier | 98.7 % | 85 %
 
 ## Scrapping for Eyeglasses frame from Online Marketplace
 We have collected a dataset of 160 diverse eyeglasses frames from various online marketplaces.
